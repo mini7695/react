@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-color: rgb(0, 0, 0); */
+  /* margin: 60px 80px; */
+}
+::placeholder {
+  /* left: 100px; */
+  padding: 25px;
+  /* font-size: small; */
+  margin-left: 20px;
+  align-items: center;
+  font-color: black;
+}
